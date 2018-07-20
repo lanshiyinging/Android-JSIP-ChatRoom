@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sipmessagetest.NotifyMessage" >
+
+
+    <item
+        android:id="@+id/user_p"
+        android:icon="@mipmap/icon_user_p"
+        android:title="@string/action_bar_name"
+        app:showAsAction="always" />
+
+</menu>
